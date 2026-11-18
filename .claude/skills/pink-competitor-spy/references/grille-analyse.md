@@ -76,3 +76,23 @@ Toujours préciser : *« Ces chiffres sont des indicateurs basés sur les donné
 - Story à la une « Produits » / « Avis »
 - Prix visible ou promo limitée
 - Freebie → séquence email
+
+## 8. Spécificités TikTok
+
+- **Première seconde** : le texte à l'écran et le mouvement comptent plus que la voix.
+- **Signaux visibles** : likes, commentaires, enregistrements, partages. Les enregistrements et partages indiquent un contenu utile ou très identifiant.
+- **Son / tendance** : noter si le son est une tendance ou une voix off originale.
+- **Durée** : noter la durée et le rythme de coupe.
+- **Score pépite** : même formule (vues ÷ vues médianes des 9 à 12 dernières vidéos).
+- **CTA fréquents** : « commente », « lien en bio », « suis-moi pour la partie 2 ».
+
+## 9. Lecture des chiffres à ne pas sur-interpréter
+
+- Un ratio commentaires/likes > 100 % = très probablement un CTA « commente un mot-clé ». Cela ne signifie pas autant de ventes.
+- Un échantillon de moins de 6 contenus visibles = indication, pas conclusion.
+- Les commentaires peuvent inclure les réponses du compte et des commentaires automatisés.
+- Via Metricool, les vues des Reels concurrents ne sont pas fournies : utiliser interactions et engagement.
+
+## 10. Écran divisé (démo + visage)
+
+Format courant : démonstration d'un outil ou d'un résultat en haut, personne qui parle en bas, texte animé sur les mots clés. À noter : ce que montre la démo, quel mot est mis en avant, où apparaît l'appel à l'action.

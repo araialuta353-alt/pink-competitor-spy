@@ -1,6 +1,6 @@
 # 🕵️‍♀️ Pink Competitor Spy
 
-Skill Claude pour analyser les contenus Instagram **publics** de concurrents et créer des idées **originales** pour Pink Digital Studio.
+Skill Claude pour analyser les contenus Instagram et TikTok **publics** de concurrents et créer des idées **originales** pour Pink Digital Studio.
 
 ## Contenu
 
